@@ -46,7 +46,6 @@
 
                         <div class="p-6">
                             <div class="flex items-center">
-                               
                                 <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://documenter.getpostman.com/view/7588046/UVkvKYBS" class="underline text-gray-900 dark:text-white">Link to endpints</a></div>
                             </div>
                       
